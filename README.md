@@ -11,15 +11,44 @@ For upcoming updates in APSSDC join in [Telegram](t.me/apssdcupdates)
 2. [Jupyter Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
 3. [Jupyter Math Markdown Syantax](https://www.math.ubc.ca/~pwalls/math-python/jupyter/latex/)
 
+## Day 1 
+* Introduction to Data
+* Types of Data in Statistics (Numerical & Categorical)
+* Overview of Python Concepts
 ### Numpy
 * [Numpy_Official_Website](http://numpy.org/)
+* NumPy Arrays
+* NumPy Basics
+* Math
+* Indexing
+* Random
+* Filtering
+* Statistics
+* Aggregation
+* Saving Data
 
+## Day 2
 ### Pandas 
 
 1. [Pandas Official website](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 2. [Pandas cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 3. [Pandas ](https://www.tutorialspoint.com/python_pandas/index.htm)
 
+* Introduction to Data Analysis using
+* Pandas
+* Pandas Series
+* Pandas DataFrame
+* Combining
+* Indexing
+* File I/O
+* Grouping
+* Features
+* Filtering
+* Sorting
+* Stastical
+* Plotting
+
+## Day 3
 ### Data Prepreccessing 
 
 0. [sklearn.preprocessing Module](https://scikit-learn.org/stable/modules/preprocessing.html)
@@ -28,6 +57,19 @@ For upcoming updates in APSSDC join in [Telegram](t.me/apssdcupdates)
 3. [Data.World](https://data.world/)
 4. [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 5. [Ways to detect outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
+
+* Introduction to Data Preprocessing and Scikit-Learn
+* Standardizing of Data
+* Robust Scaling
+* Data Range
+* Normalizing Data
+* Label Encoder and One Hot Encoding
+* Working with Duplicates and Missing Values
+Which values should be replace with
+missing values based on type of data
+Identifying and Eliminating of Outliers
+Filling missing data using Data
+Imputation
 
 ### MAtplotlib Library
 
